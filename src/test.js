@@ -5,4 +5,5 @@ const data = (app) => {
   <div>{data}</div>;
 };
 
-export default Text;
+export default data;
+ 

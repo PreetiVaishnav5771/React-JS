@@ -1,7 +1,7 @@
 const SignIn = (props) => {
     returns (
     <button onclick={props.onclick}>
-      Sign In
+      Sign In 
     </button>
     );
   }

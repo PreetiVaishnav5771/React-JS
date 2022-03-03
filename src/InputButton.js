@@ -1,3 +1,5 @@
+import App from "./App"
+
 function app = () => {
       const [data,setdata]=usestate(null)
       const [print,setprint]=usestate(false)
@@ -17,4 +19,4 @@ function app = () => {
         </div>
       );
     }
-    export default InputButton;
+    export default App; 

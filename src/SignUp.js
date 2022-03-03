@@ -5,4 +5,4 @@ const signup = (props) => {
       </button>
       );
     }
-    export default SignUp;
+    export default SignUp; 
